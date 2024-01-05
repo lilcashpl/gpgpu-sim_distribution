@@ -1,7 +1,8 @@
 repo_name: lilcashpl/gpgpu-sim_distribution
 report_id: f85a372e0ab6ac6a80d69f208c020332
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:56:19+00:00'
+timestamp: '2024-01-05T08:31:43+00:00'
 requested_by: aamodt
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/lilcashpl/gpgpu-sim_distribution
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/lilcashpl/gpgpu-sim_distribution
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/lilcashpl/gpgpu-sim_distribution
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lilcashpl/gpgpu-sim_distribution
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -54,6 +59,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/lilcashpl/gpgpu-sim_distribution/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: tgrogers
   last_updated_on: 2020-07-13 17:23:41.000000000 Z
@@ -65,6 +71,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/2836/LUOWehvo_400x400.jpeg
+  detection_source_url: https://github.com/lilcashpl/gpgpu-sim_distribution
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -75,6 +82,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/lilcashpl/gpgpu-sim_distribution
   detection_source: Repo Metadata
 - name: gdb
   description: GNU debugger tool
@@ -82,4 +90,5 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6225/no-img-open-source.png
+  detection_source_url: https://github.com/lilcashpl/gpgpu-sim_distribution
   detection_source: Repo Metadata
